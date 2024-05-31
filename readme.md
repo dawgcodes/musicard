@@ -3,7 +3,7 @@
 
 # __Installation__
 ```
-npm install git+https://github.com/Miko-Radio/mikoradio-card
+npm install git+https://github.com/dawgcodes/musicard
 ```
 
 # __Example__
