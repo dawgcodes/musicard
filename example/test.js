@@ -1,5 +1,5 @@
 (async () => {
-    const { mikocard } = require("mikocard");
+    const { mikocard } = require("musicard");
     const fs = require("fs");
 
     const card = new mikocard()
