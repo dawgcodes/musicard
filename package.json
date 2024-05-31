@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dawgcodes/mikocard.git"
+    "url": "https://github.com/dawgcodes/musicard.git"
   },
   "bugs": {
-    "url": "https://github.com/dawgcodes/mikocard/issues"
+    "url": "https://github.com/dawgcodes/musicard/issues"
   }
 }
