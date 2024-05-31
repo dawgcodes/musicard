@@ -33,7 +33,7 @@ This example code will generate a music card image and save it.
 
 # __Output__
 This is the **classic** output of musicard.
-[![Discord Icon](https://raw.githubusercontent.com/Miko-Radio/cdn/main/mikocard/theme1/31.png)](https://your-discord-server-link.com)
+[![Discord Icon](https://raw.githubusercontent.com/dawgcodes/cdn/main/dawgcodes/theme1/31.png)](https://your-discord-server-link.com)
 
 
 
@@ -45,4 +45,4 @@ https://github.com/a3pire
 # Projects
 |  Sr.  |            Name            |  Platform  |
 |:-----:|:--------------------------:|:----------:|
-| **1** | [Miko Radio](https://discord.com/oauth2/authorize?response_type=code&client_id=1176036435523022969&scope=guilds.join%20bot%20applications.commands&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FYZR9YF96Fs) | discord.js |
+| **1** | [Reedroux LLC](https://reedroux.biz/) | TS/JS |
