@@ -40,7 +40,7 @@ This is the **classic** output of musicard.
 # Originial Source
 
 ```
-https://github.com/a3pire
+[https://github.com/reedroux/rdxmusicard]
 ```
 # Projects
 |  Sr.  |            Name            |  Platform  |
