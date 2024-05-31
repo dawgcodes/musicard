@@ -15,6 +15,6 @@
 
     const cardBuffer = await card.build();
 
-    fs.writeFileSync(`mikocard.png`, cardBuffer);
+    fs.writeFileSync(`mewcard.png`, cardBuffer);
     console.log("Done!");
 })()
