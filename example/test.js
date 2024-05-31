@@ -1,5 +1,5 @@
 (async () => {
-    const { mewcard } = require("mewcard");
+    const { reedroux } = require("reedroux");
     const fs = require("fs");
 
     const card = new mewcard()
@@ -9,10 +9,10 @@
         .setTheme("classic")
         .setBrightness(50)
         .setThumbnail("https://cdn.discordapp.com/attachments/1194410866209206412/1196152611594838026/mewwme.png")
-        .setRequester("romanromannya")
+        .setRequester("twodawg")
 
     const cardBuffer = await card.build();
 
-    fs.writeFileSync(`mewcard.png`, cardBuffer);
+    fs.writeFileSync(`reedroux.png`, cardBuffer);
     console.log("Done!");
 })()
