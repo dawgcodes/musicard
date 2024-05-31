@@ -10,7 +10,7 @@ npm install git+https://github.com/dawgcodes/musicard
 This example code will generate a music card image and save it.
 ```js
 (async () => {
-    const { mikocard } = require("mikocard");
+    const { mikocard } = require("musicard");
     const fs = require("fs");
 
     const card = new mikocard()
