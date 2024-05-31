@@ -26,7 +26,7 @@ This example code will generate a music card image and save it.
 
     const cardBuffer = await card.build();
 
-    fs.writeFileSync(`mikocard.png`, cardBuffer);
+    fs.writeFileSync(`mewcard.png`, cardBuffer);
     console.log("Done!");
 })()
 ```
