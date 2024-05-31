@@ -1,5 +1,5 @@
 (async () => {
-    const { reedroux } = require("reedroux");
+    const { rdxmusicard } = require("rdxmusicard");
     const fs = require("fs");
 
     const card = new mewcard()
